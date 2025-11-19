@@ -28,25 +28,8 @@ This setup helps defenders understand **real attacker behaviour** in a controlle
 
 ---
 
-## 🏗️ High-Level Architecture
-
-1. **Attacker / Internet**
-   - Connects to exposed services (e.g., SSH / web / custom ports).
-
-2. **Honeypot VM (Linux)**
-   - Listens on specific ports.
-   - Records all incoming requests and interactions.
-   - Optionally simulates weak credentials or simple vulnerabilities.
-
-3. **Logging & Detection**
-   - System and honeypot logs record:
-     - Source IPs
-     - Timestamps
-     - Commands / requests
-   - These logs are then used to:
-     - Identify attack patterns.
-     - Build detection rules.
-     - Practice incident response workflows.
+## 🏗️ High-Level Architecture 
+(./architecture-diagram.png)
 
 ---
 
