@@ -29,7 +29,7 @@ This setup helps defenders understand **real attacker behaviour** in a controlle
 ---
 
 ## 🏗️ High-Level Architecture 
-(./architecture-diagram.png)
+![Architecture diagram](./architecture-diagram.png)
 
 ---
 
