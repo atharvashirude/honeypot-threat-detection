@@ -11,7 +11,6 @@ Watch the full walkthrough of the honeypot setup, attack simulation, and detecti
 
 [▶️ Project Demo Video](./honeypt-threat-detetcion-video.mp4)
 
-> Update the file name/path above if you commit the video under a different name or folder.
 
 ---
 
