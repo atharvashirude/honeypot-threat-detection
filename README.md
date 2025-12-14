@@ -55,7 +55,7 @@ By reviewing these events, you can:
 
 The preconfigured honeypot VM is available here:
 
-👉 [Download the Linux Honeypot VM](https://drive.google.com/drive/folders/18ZnrANo-VIHw4ARf8XSaSCcKuy6YVORb?usp=drive_link)
+👉 [![Demo Video](https://img.youtube.com/vi/sA3v-Rnmwd4/0.jpg)](https://youtu.be/sA3v-Rnmwd4)
 
 Import the VM into your preferred hypervisor (e.g., VirtualBox, VMware, etc.).
 
