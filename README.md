@@ -9,7 +9,8 @@ The goal of this project is to simulate a vulnerable server, collect attacker be
 
 Watch the full walkthrough of the honeypot setup, attack simulation, and detection workflow:
 
-[▶️ Project Demo Video](./honeypt-threat-detetcion-video.mp4)
+[![Demo Video](https://img.youtube.com/vi/sA3v-Rnmwd4/0.jpg)](https://youtu.be/sA3v-Rnmwd4)
+
 
 
 ---
@@ -55,7 +56,7 @@ By reviewing these events, you can:
 
 The preconfigured honeypot VM is available here:
 
-👉 [![Demo Video](https://img.youtube.com/vi/sA3v-Rnmwd4/0.jpg)](https://youtu.be/sA3v-Rnmwd4)
+👉 [Download the Linux Honeypot VM](https://drive.google.com/drive/folders/18ZnrANo-VIHw4ARf8XSaSCcKuy6YVORb?usp=drive_link)
 
 Import the VM into your preferred hypervisor (e.g., VirtualBox, VMware, etc.).
 
